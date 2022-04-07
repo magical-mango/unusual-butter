@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unusual-butter
+- 👋 Hi, I’m @magical-mango
 - 👀 I’m interested in learning how to build things.
 - 🌱 I’m currently starting from scratch!
 
